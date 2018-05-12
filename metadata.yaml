@@ -1,0 +1,31 @@
+_repo: How-to-Produce-Amateur-PlaysA-Practical-Manual_39973
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clark, Barrett H. (Barrett Harper)
+    alias: Clark, Barrett Harper
+    birthdate: 1890
+    deathdate: 1953
+    gutenberg_agent_id: '7471'
+    url: http://www.gutenberg.org/2009/agents/7471
+description: ''
+gutenberg_issued: '2012-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39973'
+  lccn: '23001124'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Amateur plays'
+tableOfContents: 'Preface -- Choosing the play -- Organization -- Choosing the cast
+  -- Rehearsing -- The stage -- Lighting -- Scenery and costumes -- Selective lists
+  of amateur plays -- Appendices: Copyright and royalty. A note on make-up.'
+title: 'How to Produce Amateur Plays: A Practical Manual'
+url: http://www.gutenberg.org/ebooks/39973
