@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PN'
 - !lcsh 'Amateur plays'
+- GITenberg
 tableOfContents: 'Preface -- Choosing the play -- Organization -- Choosing the cast
   -- Rehearsing -- The stage -- Lighting -- Scenery and costumes -- Selective lists
   of amateur plays -- Appendices: Copyright and royalty. A note on make-up.'
